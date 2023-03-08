@@ -10,7 +10,7 @@ import {
   deleteCart,
   updateCart,
   singleCart,
-} from "../controllers/Cart.js";
+} from "../controllers/cart.js";
 
 const routerCart = express.Router();
 
